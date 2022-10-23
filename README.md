@@ -1,0 +1,2 @@
+# IlkProje
+Yeni başlıyorum
